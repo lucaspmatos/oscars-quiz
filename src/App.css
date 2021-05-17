@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
+
+button {
+  appearance: none;
+  margin-top: 10px;
+  border: none;
+  border-radius: 5px;
+
+  font-family: 'Poppins';
+  font-weight: bold;
+
+  background-color: blue;
+  color: white;
+}
